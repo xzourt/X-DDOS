@@ -1,6 +1,7 @@
 import os
 
 os.system("pip3 install httpx")
+os.system("pip3 install colorama")
 os.system("pip3 install httpx[http2]")
 os.system("pip3 install cloudscraper")
 os.system("pip3 install fake_useragent")
